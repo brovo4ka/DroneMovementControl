@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  DroneMovementControl.cpp
+c:\users\mumzik\source\repos\dronemovementcontrol\dronemovementcontrol\dronemovementcontrol.cpp(115): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\users\mumzik\source\repos\dronemovementcontrol\dronemovementcontrol\dronemovementcontrol.cpp(208): warning C4804: <=: небезопасное использование типа "bool" в операции
+c:\users\mumzik\source\repos\dronemovementcontrol\dronemovementcontrol\dronemovementcontrol.cpp(214): warning C4715: testWayPoint: значение возвращается не при всех путях выполнения
+  DroneMovementControl.vcxproj -> C:\Users\mumzik\source\repos\DroneMovementControl\Debug\DroneMovementControl.exe
